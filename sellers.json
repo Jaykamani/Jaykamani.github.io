@@ -1,0 +1,50 @@
+{
+    "contact_address": "AdPixis Tech LLP Mumbai",
+    "contact_email": "arya@adpixis.com",
+    "identifiers": [],
+    "version": 1,
+    "sellers": [
+        {
+            "seller_id": 1001,
+            "seller_type": "PUBLISHER",
+            "domain": "indiatimes.com",
+            "name": "Times of India"
+        },
+        {
+            "seller_id": 1002,
+            "seller_type": "PUBLISHER",
+            "domain": "hindustantimes.com",
+            "name": "Hindustan Times"
+        },
+        {
+            "seller_id": 1003,
+            "seller_type": "PUBLISHER",
+            "domain": "mindyourlogic.in",
+            "name": "Mind Your Logic"
+        },
+        {
+            "seller_id": 1004,
+            "seller_type": "PUBLISHER",
+            "domain": "tinytactics.com",
+            "name": "Tiny Tactics"
+        },
+        {
+            "seller_id": 1005,
+            "seller_type": "PUBLISHER",
+            "domain": "pocketfm.com",
+            "name": "Pocket FM"
+        },
+        {
+            "seller_id": 1006,
+            "seller_type": "PUBLISHER",
+            "domain": "felicitygames.com",
+            "name": "Felicitygames"
+        },
+        {
+            "seller_id": 1007,
+            "seller_type": "PUBLISHER",
+            "domain": "funstop.io",
+            "name": "Funstop"
+        }
+    ]
+}
